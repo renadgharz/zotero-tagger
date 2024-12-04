@@ -1,4 +1,7 @@
-config/
+config/*
+outputs/*
+!outputs/.gitkeep
+!config/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
